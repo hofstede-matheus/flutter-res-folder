@@ -1,8 +1,17 @@
 # flutter-res-folder
 
+![structure](/static/scaffold.png)
+
 ## Overview
 
-Statically define your resources for better performance, productivity and organization with a "à la" Android resource folder scaffold.
+Statically define your resources for better performance, productivity and organization with a "à la" Android resource folder scaffold. Contributions are welcome
+
+## Resources
+
+- colors
+- images
+- strings
+- themes
 
 ## How to use
 
