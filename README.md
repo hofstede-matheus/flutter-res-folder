@@ -2,7 +2,7 @@
 
 ## Overview
 
-Statically define your resources for better performance, productivity and organization with a "à la" Android resource folder scaffolding.
+Statically define your resources for better performance, productivity and organization with a "à la" Android resource folder scaffold.
 
 ## How to use
 
