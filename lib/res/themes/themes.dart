@@ -18,3 +18,9 @@ final theme = ThemeData(
     bodyText2: TextStyle(fontSize: 14.0, fontFamily: 'Hind'),
   ),
 );
+
+final textTitle = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 20,
+  color: Colors.black54
+);
